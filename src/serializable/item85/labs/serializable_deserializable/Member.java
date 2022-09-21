@@ -1,4 +1,4 @@
-package serializable.item85.labs;
+package serializable.item85.labs.serializable_deserializable;
 
 import java.io.Serializable;
 /**

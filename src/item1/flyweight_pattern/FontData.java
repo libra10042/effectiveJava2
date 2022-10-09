@@ -1,4 +1,4 @@
-package item1;
+package item1.flyweight_pattern;
 
 import java.awt.*;
 import java.lang.ref.WeakReference;

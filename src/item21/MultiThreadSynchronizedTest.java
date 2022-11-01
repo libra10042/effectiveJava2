@@ -17,7 +17,7 @@ public class MultiThreadSynchronizedTest {
     private static final Logger log = LoggerFactory.getLogger(MultiThreadSynchronizedTest.class);
 
     @Test
-    void testSingleThread() throws InterruptedException{
+    void testMultiThread() throws InterruptedException{
         List<String> list = new ArrayList<>();
         list.add("java");
         list.add("js");
